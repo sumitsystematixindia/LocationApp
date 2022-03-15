@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#0064FE</color>
+    <color name="purple_700">#0660EA</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+        <color name="light_black">#B4B4B4</color>
+        <color name="side_navigation">#939393</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="light_white">#5C9CFE</color>
+    <color name="light_grey">#F8FAFF</color>
+    <color name="dark_grey">#999999</color>
+    <color name="place_beacon">#5E9BFA</color>
+    <color name="dashboard_beacon">#FF0050</color>
+    <color name="dashboard_txtbeacon">#FF87AD</color>
+    <color name="dashboard_traverse">#5955DE</color>
+    <color name="button">#808080</color>
+    <color name="grey">#B1BCBE</color>
+
+
+    /////////////////Traverse Path///////////////
+    <color name="traversepath_campus">#7EA3F9</color>
+    <color name="traversepath_campus1">#D4E1FF</color>
+    <color name="traversepath_facility1">#4D4BAA</color>
+    <color name="traversepath_facilityview1">#706FBB</color>
+    <color name="traversepath_facilityview3">#ADACDC</color>
+    <color name="traversepath_floor">#0064FE</color>
+    <color name="traversepath_floorview">#4990FE</color>
+    <color name="traversepath_floorview1">#64A1FE</color>
+    <color name="traversepath_building">#FE9296</color>
+    <color name="traversepath_buildingview">#FEB1B4</color>
+    <color name="traversepath_buildingview2">#FEC8CA</color>
+    <color name="path_detail_even_odd">#F1F5FC</color>
+</resources>

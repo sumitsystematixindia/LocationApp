@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_home"
+        android:icon="@drawable/home1"
+        android:title="@string/title_home" />
+
+    <item
+        android:id="@+id/navigation_traverse_path"
+        android:icon="@drawable/finish1"
+        android:title="@string/title_traverse_path" />
+
+    <item
+        android:id="@+id/navigation_place_beacon"
+        android:icon="@drawable/beacon1"
+        android:title="@string/title_place_beacon" />
+
+</menu>

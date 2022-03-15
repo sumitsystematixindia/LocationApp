@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="downloadmessage">downloading data</string>
+    <string name="api_key_error">Api Key Error</string>
+    <string name="connection_failed">Connection Failed</string>
+    <string name="yes">כן</string>
+    <string name="no">לא</string>
+    <string name="ok">אישור</string>
+    <string name="cancel">ביטול</string>
+
+    <string name="turn_right">Turn right</string>
+    <string name="turn_left">Turn left</string>
+    <string name="turn_back">Turn back</string>
+    <string name="continue_straight">Go straight</string>
+    <string name="right_hall">Stay on the right</string>
+    <string name="left_hall">Stay on the left</string>
+    <string name="elvator_up">Go up to floor</string>
+    <string name="elvator_down">Go down to floor</string>
+    <string name="destination">just ahead</string>
+    <string name="exit_building">Proceed outdoors</string>
+    <string name="outdoorInstruction">Follow the highlighted path</string>
+    <string name="instruction_distance">Next:</string>
+    <string name="by_the_for_instruction">by</string>
+    <string name="my_parking_info_text">My parking</string>
+    <string name="enter_building">Proceed indoors</string>
+    <string name="simplified_switch">Follow the path to</string>
+    <string name="simplified">Follow the path to</string>
+    <string name="switch_floor_extra">and then move in any direction to continue navigation.</string>
+    <string name="bridge_bubble_title">Route continues on</string>
+    <string name="floor">Floor</string>
+    <string name="exit_building_bubble">Exit building</string>
+    <string name="entrance_building_bubble">Enter building</string>
+    <string name="distance_unit">ft</string>
+    <string name="then">then</string>
+    <string name="to">to</string>
+    <string name="Arrive_at">arrive at</string>
+
+
+    <string name="turn_right_es">Doble a la derecha</string>
+    <string name="turn_left_es">Doble a la izquierda</string>
+    <string name="turn_back_es">Dé la vuelta</string>
+    <string name="continue_straight_es">Siga derecho</string>
+    <string name="right_hall_es">Manténgase a la derecha</string>
+    <string name="left_hall_es">Manténgase a la izquierda</string>
+    <string name="elvator_up_es">Vaya al piso</string>
+    <string name="elvator_down_es">Vaya al piso</string>
+    <string name="destination_es">Justo adelante</string>
+    <string name="exit_building_es">Salga al exterior</string>
+    <string name="outdoorInstruction_es">Siga la ruta pautada</string>
+    <string name="instruction_distance_es">Next:</string>
+    <string name="by_the_for_instruction_es">Cerca</string>
+    <string name="my_parking_info_text_es">Mi aparcamiento</string>
+    <string name="enter_building_es">Proceda al interior</string>
+
+
+    <string name="turn_right_he">פנה ימינה</string>
+    <string name="turn_left_he">פנה שמאלה</string>
+    <string name="turn_back_he">הסתובב לאחור</string>
+    <string name="continue_straight_he">המשך ישר</string>
+    <string name="right_hall_he">הצמד לימין</string>
+    <string name="left_hall_he">הצמד לשמאל</string>
+    <string name="elvator_up_he">עלה לקומה</string>
+    <string name="elvator_down_he">רד לקומה</string>
+    <string name="destination_he">לפנייך</string>
+    <string name="exit_building_he">צא מהבניין</string>
+    <string name="outdoorInstruction_he">המשך במסלול המסומן</string>
+    <string name="instruction_distance_he">בהמשך</string>
+    <string name="by_the_for_instruction_he">ליד</string>
+    <string name="my_parking_info_text_he">החנייה שלי</string>
+    <string name="enter_building_he">המשך לתוך המבנה</string>
+    <string name="simplified_switch_he">המשך במסלול לעבר</string>
+    <string name="simplified_he">המשך במסלול לעבר</string>
+    <string name="switch_floor_extra_he">ואז התקדם לאחד הכיוונים בכדי להמשיך בניווט.</string>
+    <string name="bridge_bubble_title_he">המסלול ממשיך ב</string>
+    <string name="floor_he">קומה</string>
+    <string name="exit_building_bubble_he">צא מהבניין</string>
+    <string name="entrance_building_bubble_he">כנס לבניין</string>
+    <string name="distance_unit_he">מטר</string>
+    <string name="then_he">ואז</string>
+    <string name="to_he">אל</string>
+    <string name="Arrive_at_he">תגיע אל</string>
+
+    <string name="app_name">mlins_ndk_lib</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+</resources>

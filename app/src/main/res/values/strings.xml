@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name" translatable="false">LocationApp</string>
+    <string name="title_home" translatable="false">Home</string>
+    <string name="title_traverse_path" translatable="false">Traverse Path</string>
+    <string name="title_place_beacon" translatable="false">Place Beacon</string>
+
+    /////////////// sidebar navigation///////////////////
+    <string name="dashboard" translatable="false">Dashboard</string>
+    <string name="mypath" translatable="false">My Path</string>
+    <string name="setting" translatable="false">Setting</string>
+    <string name="about" translatable="false">About</string>
+    <string name="feedback" translatable="false">Feedback</string>
+    <string name="logout" translatable="false">Logout</string>
+
+    //////////////////////nav header//////////
+    <string name="user_name" translatable="false">John Deo</string>
+    <string name="user_email" translatable="false">john@gmail.com</string>
+
+    <string name="open" translatable="false">Open</string>
+    <string name="close" translatable="false">Close</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment" translatable="false">Hello blank fragment</string>
+    <string name="titly" translatable="false">Beacon Placement ID</string>
+    <string name="description" translatable="false">Please add description:</string>
+    <string name="title_activity_select_beacon" translatable="false">SelectBeacon</string>
+    <string name="locationAndManagement" translatable="false">Location &amp; Management</string>
+</resources>

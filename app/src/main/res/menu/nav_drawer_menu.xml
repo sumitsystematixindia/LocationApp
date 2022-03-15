@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/navigation_setting"
+            android:icon="@drawable/race_track"
+            android:title="@string/dashboard"
+            app:actionLayout="@layout/right_arrow"/>
+        <item
+            android:id="@+id/my_path"
+            android:icon="@drawable/pin_on_path"
+            android:title="@string/mypath"
+            app:actionLayout="@layout/right_arrow"/>
+        <item
+            android:id="@+id/setting"
+            android:icon="@drawable/settings"
+            android:title="@string/setting"
+            app:actionLayout="@layout/right_arrow"/>
+        <item
+            android:id="@+id/about"
+            android:icon="@drawable/information"
+            android:title="@string/about"
+            app:actionLayout="@layout/right_arrow"/>
+        <item
+            android:id="@+id/feedback"
+            android:icon="@drawable/feedback"
+            android:title="@string/feedback"
+            app:actionLayout="@layout/right_arrow"/>
+    </group>
+</menu>

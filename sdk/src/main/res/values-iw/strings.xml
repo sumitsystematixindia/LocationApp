@@ -1,0 +1,11 @@
+<resources>
+
+    <string name="instruction_distance">Next:</string>
+    <string name="by_the_for_instruction">ליד</string>
+    <string name="downloadmessage">מוריד נתונים</string>
+    <string name="api_key_error">Api Key Error</string>
+    <string name="connection_failed">ההתקשרות נכשלה</string>
+    <string name="outdoorInstruction">המשך בעיוון המסלול</string>
+    <string name="my_parking_info_text">החניה שלי</string>
+
+</resources>
